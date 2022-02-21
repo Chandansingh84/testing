@@ -1,0 +1,4 @@
+D:\Job2021\BowlingBallScoring\BowlingBallScoring\bin\Debug\BowlingBallScoring.exe
+D:\Job2021\BowlingBallScoring\BowlingBallScoring\bin\Debug\BowlingBallScoring.pdb
+D:\Job2021\BowlingBallScoring\BowlingBallScoring\obj\Debug\BowlingBallScoring.exe
+D:\Job2021\BowlingBallScoring\BowlingBallScoring\obj\Debug\BowlingBallScoring.pdb
